@@ -6,14 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "@nibilin33:registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nibilin33/test-publish.git"
   },
-  "author": "",
+  "author": "nibilin33",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nibilin33/test-publish/issues"
