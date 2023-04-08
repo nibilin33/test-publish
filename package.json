@@ -1,6 +1,6 @@
 {
   "name": "@nibilin33/test-publish",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nibilin33/test-publish/issues"
   },
-  "homepage": "https://github.com/nibilin33/test-publish#readme"
+  "homepage": "https://github.com/nibilin33/test-publish#readme",
+  "dependencies": {
+    "semver": "^7.3.8"
+  }
 }
